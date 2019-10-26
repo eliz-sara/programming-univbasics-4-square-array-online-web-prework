@@ -9,7 +9,3 @@ def square_array(array)
     count = count + 1
     
 end
-
-squared
-
-end
